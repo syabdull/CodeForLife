@@ -6,6 +6,7 @@ import java.util.HashMap;
           capitalCities.put("Ap","Amravati");
           capitalCities.put("karnataka","Banglore");
           System.out.println(capitalCities.get("Telangana"));
+          System.out.println(capitalCities.size());
 
      }
  }
