@@ -7,6 +7,8 @@ import java.util.HashMap;
           capitalCities.put("karnataka","Banglore");
           System.out.println(capitalCities.get("Telangana"));
           System.out.println(capitalCities.size());
+          capitalCities.clear();
+          System.out.println(capitalCities);
 
      }
  }
